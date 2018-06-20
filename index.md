@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## The Kerbinator 3000
+### A project by Little Sandbox Invent
 
-You can use the [editor on GitHub](https://github.com/LittleSandbox/kerbinator/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+The Kerbinator 3000 was created with one purpose in mind: seek out drop-kerbs. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Ok maybe this little button box can't do that by itself, but with help from you good people we can collect information about the location of drop-kerbs and populate an online map identifying where there is a drop-kerb nearby.
 
-### Markdown
+### Why would we do this, you might ask?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Well we were inspired by one of the volunteers at our tech club who uses a wheelchair and told us that sometimes, using the walking route on Google Maps to find her way is frustrating because, there isn't always a drop-kerb for her to use to cross the road and that often means she has to retrace her route until she find a place to cross.
 
-```markdown
-Syntax highlighted code block
+So we thought: wouldn't it be great if you could plot a route that included drop-kerbs? But there's no data available about where they are so before we can create a handy interactive map, we need to find a way to collect that data.
 
-# Header 1
-## Header 2
-### Header 3
+Hopefully there's lots of helpful people around the place willing to help us crowd source that data using the kerbinator 3000.
 
-- Bulleted
-- List
+## So what exactly is the Kerbinator 3000?
 
-1. Numbered
-2. List
+The Kerbinator 3000 is a button. When the button is pressed it records the GPS location to a text file stored on an SD card. 
+These locations can then be sent to us (ideally automatically via a wifi connection) to add to a database which will then populate the interactive map on this website.
 
-**Bold** and _Italic_ and `Code` text
+Once we have a working model, we'll make the specs available to download so people can build their own and start gathering data in their local area. 
 
-[Link](url) and ![Image](src)
-```
+But we're 13 year olds so we could also use some extra help in coding the interactive map and stuff, so if any local makers fancy lending a hand, please get in touch.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LittleSandbox/kerbinator/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+For more information about Little Sandbox visit the website: [Little Sandbox](https://littlesandbox.co.uk)
